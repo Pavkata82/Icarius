@@ -1,0 +1,15 @@
+D:\Programming\C#\Icarus\Icarus\Icarus\bin\Debug\net6.0\Icarus.exe
+D:\Programming\C#\Icarus\Icarus\Icarus\bin\Debug\net6.0\Icarus.deps.json
+D:\Programming\C#\Icarus\Icarus\Icarus\bin\Debug\net6.0\Icarus.runtimeconfig.json
+D:\Programming\C#\Icarus\Icarus\Icarus\bin\Debug\net6.0\Icarus.dll
+D:\Programming\C#\Icarus\Icarus\Icarus\bin\Debug\net6.0\Icarus.pdb
+D:\Programming\C#\Icarus\Icarus\Icarus\obj\Debug\net6.0\Icarus.csproj.AssemblyReference.cache
+D:\Programming\C#\Icarus\Icarus\Icarus\obj\Debug\net6.0\Icarus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Icarus\Icarus\Icarus\obj\Debug\net6.0\Icarus.AssemblyInfoInputs.cache
+D:\Programming\C#\Icarus\Icarus\Icarus\obj\Debug\net6.0\Icarus.AssemblyInfo.cs
+D:\Programming\C#\Icarus\Icarus\Icarus\obj\Debug\net6.0\Icarus.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Icarus\Icarus\Icarus\obj\Debug\net6.0\Icarus.dll
+D:\Programming\C#\Icarus\Icarus\Icarus\obj\Debug\net6.0\refint\Icarus.dll
+D:\Programming\C#\Icarus\Icarus\Icarus\obj\Debug\net6.0\Icarus.pdb
+D:\Programming\C#\Icarus\Icarus\Icarus\obj\Debug\net6.0\Icarus.genruntimeconfig.cache
+D:\Programming\C#\Icarus\Icarus\Icarus\obj\Debug\net6.0\ref\Icarus.dll
